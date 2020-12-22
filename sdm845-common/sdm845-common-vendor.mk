@@ -414,7 +414,6 @@ PRODUCT_PACKAGES += \
     datastatusnotification \
     embms \
     imssettings \
-    AndroidAutoStub \
     ims \
     qcrilmsgtunnel \
     WfdCommon \
